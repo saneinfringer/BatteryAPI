@@ -1,5 +1,5 @@
 
-# Music Player
+# Battery API
 
 **BatteryAPI**: A JavaScript library for monitoring and managing battery status in web applications. This API provides real-time insights into battery levels, charging status, and system energy consumption. It's designed to enhance user experience by optimizing performance and power usage in battery-dependent devices.
 
